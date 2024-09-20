@@ -5,4 +5,4 @@ Welcome to the **Machine Learning Projects Repository**. This repository contain
 ## Table of Contents
 
 1. [No Show Up](./Machine_Learning/No Show Up/)
-2. [Credit Card Risk Fault](./Machine_Learning/Credit_Card_Risk_Default/)
+2. [Credit Card Risk Fault](./Credit_Card_Risk_Default/)
