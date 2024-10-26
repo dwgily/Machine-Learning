@@ -18,3 +18,6 @@ The regions have changed over the years so data may only appear for certain date
 **Evaluation Metrics:** Mean Squared Error (MSE) and R² Score are used to evaluate model performance.
 
 **Data Visualization:** Boxplots, time series decomposition, and other plots are generated to illustrate data patterns.
+
+## Output 
+![image](https://github.com/user-attachments/assets/f570fd1e-69e4-4079-9748-195857789377)
